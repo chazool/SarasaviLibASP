@@ -1,0 +1,5 @@
+c:\users\pcpal\documents\visual studio 2012\Projects\Sarasavi\Sarasavi\bin\Sarasavi.dll
+c:\users\pcpal\documents\visual studio 2012\Projects\Sarasavi\Sarasavi\bin\Sarasavi.pdb
+c:\users\pcpal\documents\visual studio 2012\Projects\Sarasavi\Sarasavi\obj\Debug\Sarasavi.dll
+c:\users\pcpal\documents\visual studio 2012\Projects\Sarasavi\Sarasavi\obj\Debug\Sarasavi.pdb
+C:\Users\pcpal\Documents\Visual Studio 2012\Projects\Sarasavi\Sarasavi\obj\Debug\Sarasavi.csprojResolveAssemblyReference.cache
